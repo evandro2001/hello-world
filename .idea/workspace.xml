@@ -29,7 +29,7 @@
       <file leaf-file-name="README" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="109" selection-end="109" vertical-scroll-proportion="0.28169015" vertical-offset="0" max-vertical-offset="639">
+            <state line="13" column="0" selection-start="118" selection-end="118" vertical-scroll-proportion="0.30612245" vertical-offset="0" max-vertical-offset="637">
               <folding />
             </state>
           </provider>
@@ -89,7 +89,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -110,6 +109,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -370,7 +370,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="109" selection-end="109" vertical-scroll-proportion="0.28169015" vertical-offset="0" max-vertical-offset="639">
+        <state line="13" column="0" selection-start="118" selection-end="118" vertical-scroll-proportion="0.30612245" vertical-offset="0" max-vertical-offset="637">
           <folding />
         </state>
       </provider>
